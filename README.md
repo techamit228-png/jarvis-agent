@@ -1,4 +1,4 @@
-Before installation, download Ollama and llama3.2:3b.
+Before installation, download Ollama and llama3.2:3b. IN CMD
 
 winget install Ollama.Ollama
 
