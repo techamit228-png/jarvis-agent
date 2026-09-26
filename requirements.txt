@@ -1,0 +1,8 @@
+requests
+psutil
+pyautogui
+pycaw
+comtypes
+SpeechRecognition
+pyaudio
+pyttsx3
